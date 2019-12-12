@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>714019720581-dr8prhgq1lg6u04lncmujmh1sfq2mkkk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.714019720581-dr8prhgq1lg6u04lncmujmh1sfq2mkkk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAMUC4xkbrZjxa4WQd0v22VxGwlAPVdeK4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>714019720581</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>AppCoda.FirebaseTutorial1</string>
+	<key>PROJECT_ID</key>
+	<string>my-awesome-project-e576c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-awesome-project-e576c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:714019720581:ios:222f79d2586a4f0e9548ec</string>
+	<key>DATABASE_URL</key>
+	<string>https://my-awesome-project-e576c.firebaseio.com</string>
+</dict>
+</plist>
